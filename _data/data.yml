@@ -9,15 +9,15 @@ sidebar:
     # Profile information
     name: Seojeong Kim
     #tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Seojeong_Kim_picture.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: sjkim0516@naver.com
+    phone: 010 2972 3701
+    website: 
+    linkedin: 
+    xing: 
+    github: Seojeong-Kim
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -25,25 +25,16 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
-      - idiom: English
+      - idiom: Korean
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
       - item: Cooking
         link:
 
@@ -57,7 +48,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
+    - degree: MSc in Electrical Engineering
       university: University of London
       time: 2011 - 2012
       details: |
